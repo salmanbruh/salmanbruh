@@ -26,7 +26,7 @@ Impact-driven engineer with a focus on **backend & infrastructure**. I'm passion
 
 ## 📊 GitHub Stats
 
-![Metrics](https://github.com/salmanbruh/salmanbruh/blob/main/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 ## 🤝 Connect with Me
 

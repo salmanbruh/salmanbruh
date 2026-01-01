@@ -30,9 +30,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_days: 365  # Analyze last 1 year
+          plugin_languages_recent_load: 1000 # Load more events
+          plugin_languages_analysis_timeout: 60 # Give it time to crunch data
+          plugin_languages_indepth: yes # Scan commit code directly (Critical for correct stats)
 
           # Lines plugin - Shows lines of code added/deleted
           plugin_lines: yes
