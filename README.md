@@ -26,13 +26,7 @@ Impact-driven engineer with a focus on **backend & infrastructure**. I'm passion
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Salman's GitHub Stats](https://github-readme-stats-omega-dusky-13.vercel.app/api?username=salmanbruh&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-omega-dusky-13.vercel.app/api/top-langs/?username=salmanbruh&layout=compact&theme=radical&hide_border=true)
-
-</div>
+![Metrics](https://github.com/salmanbruh/salmanbruh/blob/main/github-metrics.svg)
 
 ## 🤝 Connect with Me
 
