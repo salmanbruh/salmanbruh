@@ -28,11 +28,9 @@ Impact-driven engineer with a focus on **backend & infrastructure**. I'm passion
 
 <div align="center">
 
-![Salman's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salmanbruh&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Salman's GitHub Stats](https://github-readme-stats-omega-dusky-13.vercel.app/api?username=salmanbruh&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salmanbruh&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=salmanbruh&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-omega-dusky-13.vercel.app/api/top-langs/?username=salmanbruh&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
